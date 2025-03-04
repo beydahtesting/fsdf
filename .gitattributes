@@ -1,0 +1,2 @@
+Mcq_Grader/OpenCV/native/3rdparty/libs/x86_64/libippicv.a filter=lfs diff=lfs merge=lfs -text
+Mcq_Grader/OpenCV/native/libs/x86_64/libopencv_java4.so filter=lfs diff=lfs merge=lfs -text
