@@ -1,0 +1,21 @@
+# Ignore Gradle files
+.gradle/
+build/
+.gradle
+/build/
+/app/build/
+
+# Ignore local Android settings
+/local.properties
+/.idea/
+/captures/
+/outputs/
+
+# Ignore Keystore files (important for security)
+*.jks
+*.keystore
+
+# Ignore miscellaneous files
+*.log
+*.tmp
+.DS_Store
