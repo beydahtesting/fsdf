@@ -1,2 +1,0 @@
-ninja: Entering directory `D:\Mcq_Grader\OpenCV\.cxx\Debug\1i5v5167\x86'
-ninja: no work to do.
